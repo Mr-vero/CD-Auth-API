@@ -1,6 +1,4 @@
-Certainly! Here's a basic README template for your API:
 
-```markdown
 # Two-Factor Authentication API
 
 The Two-Factor Authentication (2FA) API provides a simple server-side implementation of Time-based One-Time Password (TOTP) for securing user authentication. It supports the generation of secret keys, provisioning of mobile apps with QR codes, and verification of one-time passwords. Additionally, it integrates with Twilio for sending OTP via SMS and supports sending OTP via email.
