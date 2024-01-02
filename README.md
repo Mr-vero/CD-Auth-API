@@ -33,7 +33,7 @@ The Two-Factor Authentication (2FA) API provides a simple server-side implementa
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Mr-vero/CD-Auth-API.git](https://github.com/Mr-vero/CD-Auth-API.git)
+   git clone https://github.com/Mr-vero/CD-Auth-API.git
    ```
 
 2. Install dependencies:
